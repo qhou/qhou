@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qhou
 - 👀 I’m interested in all things backend!
-- 🌱 I’m currently learning cool things like go and blockchain
+- 🌱 I’m currently learning cool things like Go and blockchain
 - 💞️ I’m looking to collaborate on social causes
 
 <!---
